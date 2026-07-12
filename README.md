@@ -1,16 +1,27 @@
-# React + Vite
+🎨 Thirtysixstudio Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive front-end clone of the Thirtysixstudio website built using React.js. This project recreates the landing page experience with smooth scrolling, canvas-based animations, and GSAP-powered transitions while following a component-based architecture.
 
-Currently, two official plugins are available:
+The primary goal of this project was to strengthen my React fundamentals and gain hands-on experience with modern front-end animation libraries and the HTML5 Canvas API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Disclaimer: This project is a personal learning exercise created for educational and portfolio purposes only. All design inspiration, branding, and original content belong to Thirtysixstudio.
 
-## React Compiler
+🎯 Key Concepts Practiced
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+During this project I explored and implemented:
 
-## Expanding the ESLint configuration
+React Functional Components
+React Hooks (useState, useEffect, useRef)
+GSAP animations
+Frame-by-frame image sequence animation
+HTML5 Canvas API
+Smooth scrolling
+Component reusability
+State management
+DOM manipulation with React Refs
+Tailwind CSS utility classes
+Modern React project structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⭐ If you like this project
+
+If you found this project interesting, consider giving it a ⭐ on GitHub. It helps support my learning journey and encourages me to build more projects.
